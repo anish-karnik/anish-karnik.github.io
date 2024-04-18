@@ -1,0 +1,55 @@
+{
+  "backgroundType": "gradient",
+  "plainBackgroundMode": "daylight",
+  "devIntro": "Anish Karnik",
+  "devDesc": "| Web Developer | Programmer | ML Enthusiast ",
+  "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
+  "icons": [
+    {
+      "id": 0,
+      "image": "fa-github",
+      "url": "https://github.com//anish-karnik",
+      "style": "socialicons"
+    },
+    {
+      "id": 3,
+      "image": "fa-linkedin",
+      "url": "https://www.linkedin.com/in/anish-karnik/",
+      "style": "socialicons"
+    }
+  ],
+  "instaLink": "https://www.instagram.com/",
+  "instaUsername": "anishkarnik0403",
+  "instaQuerry": "/?__a=1",
+  "showInstaProfilePic": true,
+  "aboutDev": "I am a third-year undergraduate student at the Indian Institute of Technology pursuing Computer Science and Engineering. I am eager to learn new things and motivated for applying my knowledge to relevant solutions. I want to explore this diverse field, where there is always something new to uncover and evolving technology to explore.",
+  "gitHubLink": "https://api.github.com/users/",
+  "gitHubUsername": "anish-karnik",
+  "gitHubQuerry": "/repos?sort=updated&direction=desc",
+  "projectsLength": 8,
+  "show" : true,
+  "heading": "Skills",
+  "hardSkills": [
+    { "name": "Python", "value": 90 },
+    { "name": "SQL", "value": 75 },
+    { "name": "Data Structures", "value": 85 },
+    { "name": "C/C++", "value": 65 },
+    { "name": "JavaScript", "value": 90 },
+    { "name": "React", "value": 65 },
+    { "name": "HTML/CSS", "value": 55 },
+    { "name": "C#", "value": 80 }
+  ],
+  "softSkills": [
+    { "name": "Goal-Oriented", "value": 80 },
+    { "name": "Collaboration", "value": 90 },
+    { "name": "Positivity", "value": 75 },
+    { "name": "Adaptability", "value": 85 },
+    { "name": "Problem Solving", "value": 75 },
+    { "name": "Empathy", "value": 90 },
+    { "name": "Organization", "value": 70 },
+    { "name": "Creativity", "value": 90 }
+  ]
+
+
+  
+}
